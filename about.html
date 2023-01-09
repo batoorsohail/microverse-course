@@ -27,16 +27,24 @@
       </div>
       <div class="main-nav">
         <img src="./images/microverseLogo.png" class="logo" alt="Microverse Logo">
+        <ul class="menu-mobile" id="menu">
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="./index.html">Home</a></li>
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="#">Program</a></li>
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="#">Join</a></li>
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="#">Sponsor</a></li>
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="#">News</a></li>
+          <i class="fa-solid fa-xmark close" onclick="closeMenu()"></i>
+        </ul>
         <ul class="menu">
           <li class="menu-list"><a href="./index.html">Home</a></li>
           <li class="menu-list"><a href="#">Program</a></li>
           <li class="menu-list"><a href="#">Join</a></li>
           <li class="menu-list"><a href="#">Sponsor</a></li>
-          <li class="menu-list"><a href="#"News></a></li>
+          <li class="menu-list"><a href="#">News</a></li>
           <button type="button" class="button">CC Campaign</button>
         </ul>
       </div>
-      <i class="fa-solid fa-bars open"></i>
+      <i class="fa-solid fa-bars open" onclick="openMenu()"></i>
     </nav>
   </header>
   <main>
@@ -45,7 +53,8 @@
         <p class="intro">"Hello! Sharing world"</p>
         <h1 class="title">Become an international software <br> developer, from anywhere.</h1>
         <article class="about-information">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis facere omnis fugit asperiores molestias dolor blanditiis dolore, beatae ullam aperiam reiciendis incidunt odio voluptatem ratione iste natus possimus. Commodi, saepe.</p>
+          <p class="about-info-mobile">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis facere omnis fugit asperiores molestias dolor blanditiis dolore, beatae ullam aperiam reiciendis incidunt odio voluptatem ratione iste natus possimus. Commodi, saepe.</p>
+          <p class="about-info-desktop">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores consequuntur alias architecto molestiae inventore voluptate modi possimus provident molestias, similique, itaque facere. Corporis reprehenderit, consequuntur repellat adipisci voluptatibus hic deleniti! Dicta aliquam odit sed tenetur, veritatis ex id asperiores modi nulla corporis, quisquam officia odio alias animi a eveniet libero ullam. Voluptatum, illum? Nulla porro impedit explicabo in, blanditiis aliquam ullam velit quibusdam earum quis quisquam eveniet tempora! Saepe reprehenderit provident optio accusamus, nemo qui corrupti deleniti dolorum doloremque deserunt. Sunt quia est cum, quas deserunt soluta dolore alias eligendi numquam sit error, ullam tempora sint ex expedita illum laborum!</p>
         </article>
         <p class="contact-info">Please contact us per email for any further information about Microverse!</p>
         <a href="#" class="email"><strong>microverse2023@gmial.com</strong></a>
@@ -84,8 +93,8 @@
           </div>
         </div>
       </section>
-      <section class="partners">
-        <h3 class="partner">Patner</h3>
+      <section class="partners partner-about">
+        <h3 class="partner">Partner</h3>
         <div class="line"></div>
         <div class="patners-logo">
           <i class="fa-brands fa-google patner-logo"></i>
@@ -97,10 +106,12 @@
       </section>
     </section>
     <footer>
-      <div class="footer">
+      <div class="footer footer-about">
         <img src="./images/microverseLogo.png" class="footer-logo" alt="Microverse logo">
         <p class="copy-right">Copyright Microverse. <br> Made with <i class="fa-solid fa-heart"></i> by Sohail</p>
       </div>
     </footer>
+    
+    <script src="./script.js"></script>
 </body>
 </html>

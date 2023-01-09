@@ -27,16 +27,24 @@
       </div>
       <div class="main-nav">
         <img src="./images/microverseLogo.png" class="logo" alt="Microverse Logo">
+        <ul class="menu-mobile" id="menu">
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="./about.html">About</a></li>
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="#">Program</a></li>
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="#">Join</a></li>
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="#">Sponsor</a></li>
+          <li class="mobile-menu-list" onclick="closeMenu()"><a href="#">News</a></li>
+          <i class="fa-solid fa-xmark close" onclick="closeMenu()"></i>
+        </ul>
         <ul class="menu">
           <li class="menu-list"><a href="./about.html">About</a></li>
           <li class="menu-list"><a href="#">Program</a></li>
           <li class="menu-list"><a href="#">Join</a></li>
           <li class="menu-list"><a href="#">Sponsor</a></li>
-          <li class="menu-list"><a href="#"News></a></li>
+          <li class="menu-list"><a href="#">News</a></li>
           <button type="button" class="button">CC Campaign</button>
         </ul>
       </div>
-      <i class="fa-solid fa-bars open"></i>
+      <i class="fa-solid fa-bars open" onclick="openMenu()"></i>
     </nav>
   </header>
   <main>
@@ -90,10 +98,17 @@
 
 <!-- -----------------------------teachers-------------------------------- -->
   
+    <section>
+      <div class="teachers" id="teachers">
+        <h2>Featured Teachers</h2>
+        <div class="line"></div>
+      </div>
+      <div class="teachers-container" id="teachers-container"></div>
+    </section>
 
 <!-- -----------------------------patners-------------------------------- -->
 
-    <section class="partners">
+    <section class="partners partner-home">
       <h3 class="partner">Patner</h3>
       <div class="line"></div>
       <div class="patners-logo">
@@ -107,11 +122,12 @@
   </main>
 <!-- -----------------------------footer-------------------------------- -->
   <footer>
-    <div class="footer">
+    <div class="footer footer-home">
       <img src="./images/microverseLogo.png" class="footer-logo" alt="Microverse logo">
       <p class="copy-right">Copyright Microverse. <br> Made with <i class="fa-solid fa-heart"></i> by Sohail</p>
     </div>
   </footer>
   
+  <script src="script.js"></script>
 </body>
 </html>
