@@ -550,13 +550,19 @@ h4 {
     flex-direction: column;
     padding: 60px 10px;
     width: 220px;
+    gap: 15px;
   }
 
   .method:hover {
     border: #fff solid 2px;
   }
 
+  .method-title {
+    text-align: center;
+  }
+
   .method-info {
+    width: 100%;
     font-size: 18px;
     text-align: center;
   }
@@ -589,6 +595,12 @@ h4 {
   /* ------------------------------partners-------------- */
 
   .partners {
+    display: flex;
+  }
+
+  /* ------------------------------partners-------------- */
+
+  .footer {
     display: flex;
   }
 
