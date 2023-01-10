@@ -55,7 +55,7 @@ const teacherInfo = [
 if (teachers) {
   for (let i = 0; i < teacherInfo.length; i += 1) {
     teachers.innerHTML += `
-      <div class= "teachers-sample">
+      <article class= "teachers-sample">
         <img src="${teacherInfo[i].img}" class="teachers-images" alt="teachers Gates photo">
         <div class= "teachers-info">
           <h3 class= "teachers-name">${teacherInfo[i].name}</h3>
@@ -63,6 +63,6 @@ if (teachers) {
           <div class="short-line"></div>
           <p class= "teachers-subject">${teacherInfo[i].subject}</p>
         </div>
-      </div>`;
+      </article>`;
   }
 }

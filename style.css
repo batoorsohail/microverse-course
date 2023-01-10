@@ -67,7 +67,7 @@ nav {
 
 .intro {
   padding-top: 30px;
-  font-size: 30px;
+  font-size: 28px;
   color: #ec5242;
 }
 
@@ -83,6 +83,21 @@ nav {
   margin-top: 25px;
   padding: 20px;
   border: #fff solid 2px;
+}
+
+.date {
+  margin-top: 30px;
+}
+
+.date-info {
+  color: #272a31;
+  font-size: 26px;
+}
+
+.date-para {
+  margin-top: 5px;
+  color: #272a31;
+  font-size: 16px;
 }
 
 /* -----------------------main program-------------- */
@@ -119,20 +134,25 @@ nav {
   align-items: center;
   background-color: rgba(255, 255, 255, 0.1);
   padding: 10px 20px;
-  gap: 15px;
   color: #fff;
 }
 
 .method-icon {
   font-size: 30px;
+  margin-right: 10px;
 }
 
 h3 {
   color: #ec5242;
 }
 
+.method-title {
+  width: 80%;
+}
+
 .method-info {
   font-size: 12px;
+  width: 80%;
 }
 
 .button-join {
@@ -407,6 +427,7 @@ h4 {
     display: flex;
     background: #272a31;
     width: 100%;
+    height: 5vh;
     align-items: center;
     justify-content: flex-end;
     position: fixed;
@@ -441,7 +462,8 @@ h4 {
   }
 
   .menu {
-    display: block;
+    display: flex;
+    align-items: center
   }
 
   .menu-list {
@@ -483,7 +505,7 @@ h4 {
   .main-text {
     padding-right: 180px;
     padding-left: 200px;
-    padding-bottom: 250px;
+    padding-bottom: 200px;
   }
 
   .intro {
@@ -492,11 +514,19 @@ h4 {
   }
 
   .title {
-    font-size: 60px;
+    font-size: 70px;
   }
 
   .information {
     width: 50%;
+  }
+
+  .date-info {
+    font-size: 36px;
+  }
+
+  .date-para {
+    font-size: 18px;
   }
 
   /* -----------------------main program-------------- */
