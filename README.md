@@ -144,9 +144,9 @@ This project is the second project that I make. If you like my project please gi
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="https://www.behance.net/adagio07"></a>
 
-I would like to thank Microverse for helping me to complete this project
+This project is made by using the Cindy Shin template on Behance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
