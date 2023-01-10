@@ -77,11 +77,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+[Click here for watching project presentation](https://www.loom.com/share/a7033791d19d43eb9ee28184478c0441)
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > You can have access to my project online by clicking on the below link:
 
-- [Live Demo Link](https://batoorsohail.github.io/my-portfolio/)
+- [Live Demo Link](https://batoorsohail.github.io/microverse-course/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,9 +144,9 @@ This project is the second project that I make. If you like my project please gi
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="https://www.behance.net/adagio07"></a>
 
-I would like to thank Microverse for helping me to complete this project
+This project is made by using the Cindy Shin template on Behance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,8 +170,6 @@ I would like to thank Microverse for helping me to complete this project
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/batoorsohail/microverse-course/blob/mobilePreview/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
