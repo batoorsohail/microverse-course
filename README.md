@@ -170,6 +170,6 @@ This project is made by using the Cindy Shin template on Behance
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]([./LICENSE](https://github.com/batoorsohail/microverse-course/blob/mobilePreview/LICENSE.md)) licensed.
+This project is [MIT](https://github.com/batoorsohail/microverse-course/blob/mobilePreview/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
