@@ -77,8 +77,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Click here for watching project presentation](https://www.loom.com/share/a7033791d19d43eb9ee28184478c0441)
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > You can have access to my project online by clicking on the below link:
