@@ -37,7 +37,7 @@
 
 # 📖 Microverse Course <a name="about-project"></a>
 
-> This project has two pages. In the home page you can find about teachers, programs, and partners. In the about page you can find about the course.
+This project has two pages. In the home page you can find about teachers, programs, and partners. In the about page you can find about the course.
 
 ## 🛠 Built With <a name="built-with"></a>
 
