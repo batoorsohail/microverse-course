@@ -72,8 +72,6 @@ This project has two pages. In the home page you can find about teachers, progra
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> If you want to use my project you should clone it into your computer and then open it in your code editor.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -134,8 +132,6 @@ This project is made by using the Cindy Shin template on Behance
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **Can we clone it without Git?**
 
