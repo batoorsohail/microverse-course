@@ -64,8 +64,6 @@ This project has two pages. In the home page you can find about teachers, progra
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can have access to my project online by clicking on the below link:
-
 - [Live Demo Link](https://batoorsohail.github.io/microverse-course/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
