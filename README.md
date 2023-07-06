@@ -32,8 +32,6 @@ This project has two pages. In the home page you can find about teachers, progra
 
 ### HTML, CSS, and JavaScript <a name="HTML and Css"></a>
 
-> HTML, CSS, and JavaScript are tools that web developers use to add text, photos, and videos, and also to design a website
-
 <details>
   <summary>Client</summary>
   <ul>
