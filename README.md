@@ -57,8 +57,6 @@ This project has two pages. In the home page you can find about teachers, progra
 
 ### Key Features <a name="key-features"></a>
 
-> The key features of this application:
-
 - **My informations**
 - **My works**
 
